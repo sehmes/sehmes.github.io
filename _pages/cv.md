@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-```{r}
-knitr::include_graphics("./files/paper1.pdf")
-```
+`r knitr::include_graphics("./files/paper1.pdf")`
