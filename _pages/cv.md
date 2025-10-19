@@ -11,27 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* since 2025: PhD Candidate in Sociology, Goethe University Frankfurt/Heidelberg University
+* 2022: M.A. in Sociology, Goethe University Frankfurt
+* 2019: B.A. in Political Science and Sociology, Goethe University Frankfurt
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* since 2025: **Research Associate**, Chair of Comparative Social Stratification, Max-Weber-Institute for Sociology, Heidelberg University
+* 2022-2025: **Research Associate**, Chair of Social Stratification and Social Policy, Institute of Sociology, Goethe University Frankfurt
+  * Project researcher in the ERC-funded project "POLAR: Does rising economic inequality undermine the foundations of liberal societies?" (PI: Markus Gangl) 
+* 2017-2022: **Research Assistant**, Institute of Sociology and Institute of Political Science, Goethe University Frankfurt 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
