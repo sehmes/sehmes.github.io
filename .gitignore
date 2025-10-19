@@ -18,4 +18,6 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
-.Rproj.user
+*.Rproj.user
+sehmes.github.io.Rproj
+.DS_Store
