@@ -1,7 +1,7 @@
 ---
 title: "The Paradox of Inequality that isn't: Rising Economic Inequality Depresses and Polarises Citizens' Belief in Meritocracy"
 collection: publications
-category: manuscripts
+category: wip
 permalink: /publication/2025-10-17-paper-inequality-meritocracy
 excerpt: ''
 date: 2025
