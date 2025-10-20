@@ -362,6 +362,6 @@ publication_category:
   book:
     title: "Books"
   article:
-    title: "Conference Papers"
+    title: "Journal Articles"
   wip:
     title: "Work In Progress"
