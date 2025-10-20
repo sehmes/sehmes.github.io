@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+<h3>Debug: publications found by Jekyll</h3>
+<ul>
+{% for post in site.publications %}
+  <li>{{ post.title }} — category: {{ post.category }}</li>
+{% endfor %}
+</ul>
+
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
