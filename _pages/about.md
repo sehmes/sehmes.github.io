@@ -3,6 +3,7 @@ permalink: /
 title: "Sven Ehmes"
 hide_title: true
 author_profile: true
+description: "Research Associate at the Max Weber Institute of Sociology, Heidelberg University."
 redirect_from: 
   - /about/
   - /about.html
