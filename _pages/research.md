@@ -11,11 +11,9 @@ redirect_from:
 
 ## Publications in peer-reviewed journals
 
-**Ehmes, Sven**, Nils Teichler, Jean-Yves Gerlitz, and Simon Bienstman. Forthcoming. **Boulevard of Broken Promises: Non-Voting and Far-Right Support among the Working Poor**. *European Sociological Review*.
+**Ehmes, Sven**, Nils Teichler, Jean-Yves Gerlitz, and Simon Bienstman. Forthcoming. **Boulevard of Broken Promises: Non-Voting and Far-Right Support among the Working Poor**. *European Sociological Review*. doi:10.1093/esr/jcag031
 
 **Ehmes, Sven**, and Markus Gangl. 2026. [The paradox of inequality that isn't: rising economic inequality depresses and polarizes citizens' belief in meritocracy](https://doi.org/10.1093/ser/mwag016). *Socio-Economic Review* 24 (3): 1643-1663. doi:10.1093/ser/mwag016 [🔓 open access]
-
-- Media coverage: [Alpha Galileo](https://www.alphagalileo.org/en-gb/Item-Display/ItemId), [idw](https://idw-online.de/de/news873032), [Phys.org](https://phys.org/news/2026-06-social-inequality-foundations-society.html)
 
 ## Working papers
 
